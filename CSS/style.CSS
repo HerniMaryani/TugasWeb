@@ -29,6 +29,9 @@ content: "";
 clear: both;
 display: table;
 }
+image{
+    width: 100%;
+}
 
 /*style Tablet */
 
